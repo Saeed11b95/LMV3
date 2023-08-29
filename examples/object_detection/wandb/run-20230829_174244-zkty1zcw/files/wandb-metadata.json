@@ -1,0 +1,122 @@
+{
+    "os": "Linux-6.2.0-27-generic-x86_64-with-glibc2.37",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-08-29T09:42:46.469728",
+    "startedAt": "2023-08-29T09:42:44.604547",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--config-file",
+        "/home/saeed/Walnut/lmv3rcnn_image-only/layoutlmv3/examples/object_detection/cascade_layoutlmv3.yaml"
+    ],
+    "state": "running",
+    "program": "/home/saeed/Walnut/lmv3rcnn_image-only/layoutlmv3/examples/object_detection/train_net.py",
+    "codePath": "train_net.py",
+    "host": "saeed-G7-MD",
+    "username": "saeed",
+    "executable": "/home/saeed/Downloads/yes/envs/rcnnlmv3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2.5188749999999995,
+        "min": 800.0,
+        "max": 4600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3.344,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.3,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.3,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3.823,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.3,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4.382,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.3,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.698,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.3,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3.166,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3.943,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2.3,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 0.895,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4.535,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3.849,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4.074,
+            "min": 800.0,
+            "max": 4600.0
+        }
+    ],
+    "disk": {
+        "total": 166.27346420288086,
+        "used": 20.895118713378906
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.393287658691406
+    }
+}
